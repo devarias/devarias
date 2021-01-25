@@ -22,10 +22,12 @@
 
 
 </br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias)](https://github.com/devarias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devarias/)
 
 
+</br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
