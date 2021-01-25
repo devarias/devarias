@@ -1,5 +1,5 @@
-<h2> Hey there! I'm David. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
+<h2> Hey there! I'm David. <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devarias/devarias/main/home.gif" width="250"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
