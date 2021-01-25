@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C
+- 💻 &nbsp; Python | C++ | C | Bash
 - 🌐 &nbsp; HTML | CSS
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Emacs | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code
 
 <br>
 
