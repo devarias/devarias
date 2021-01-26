@@ -24,7 +24,7 @@
 </br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devarias/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devarias/)
 
 
 </br>
