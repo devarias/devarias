@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C | Bash
-- 🌐 &nbsp; HTML | CSS
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio code
+- 💻 &nbsp; Python | C++ | C | Bash | JavaScript | NodeJs | ExpressJS | FastAPI | Flask
+- 🌐 &nbsp; JavaScript | HTML | CSS | ReactJS | 
+- 🛢 &nbsp; MySQL | PostgreSQL
+- 🔧 &nbsp; PyCharm | Visual Studio code | Emacs | Git | GitHub | Heroku
 
 <br>
 
