@@ -24,7 +24,7 @@
 <a href="https://frontend.code-inspector.com/public/user/github/devarias">
    <img src="https://code-inspector.com/public/badge/user/github/devarias?style=dark" alt="code inspector badge" />
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
 </div>
 
 
