@@ -20,12 +20,18 @@
 </br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devarias&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="David's Github Stats">
-<a href="https://frontend.code-inspector.com/public/user/github/devarias">
-   <img src="https://code-inspector.com/public/badge/user/github/devarias?style=dark" alt="code inspector badge" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
-</div>
+   <img src="https://github-readme-stats.vercel.app/api?username=devarias&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="David's Github Stats">
+</p>
+
+<p align="center">
+   <a href="https://frontend.code-inspector.com/public/user/github/devarias">
+      <img src="https://code-inspector.com/public/badge/user/github/devarias?style=dark" alt="code inspector badge" />
+   </a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
+</p>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
