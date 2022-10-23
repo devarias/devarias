@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; I am an experienced Cloud Developer, who was an English-Spanish translator travelling around the world along 8 years.
-- 🎓 &nbsp; When the pandemic came I decided to give a plus to my professional life in the tech area, and that was definitively the right chose.
-- 🌱 &nbsp; I learn the fundamental concepts, to learn everything else. Always giving the extra mile.
+- 🤔 &nbsp; An experienced Cloud Developer, who was an English-Spanish </br> &nbsp; &nbsp; &nbsp; &nbsp; translator travelling around the world along 8 years.
+- 🎓 &nbsp; When the pandemic came I decided to give a plus to my </br> &nbsp; &nbsp; &nbsp; &nbsp; professional life in the tech area, and that was definitively the right chose.
+- 🌱 &nbsp; Learn the fundamental concepts, to learn everything else. </br> &nbsp; &nbsp; &nbsp; &nbsp; Always giving the extra mile.
 - ✍️ &nbsp; Writing blogs about tech topics.
 - 🎥 &nbsp; Making tutorials to publish in YouTube. 
 - 🍕 &nbsp; Facing challenges is a way to improve myself.
@@ -28,13 +28,6 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
 </p>
-
-<p align="center">
-   <a href="https://frontend.code-inspector.com/public/user/github/devarias">
-      <img src="https://code-inspector.com/public/badge/user/github/devarias?style=dark" alt="code inspector badge" />
-   </a>
-</p>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
