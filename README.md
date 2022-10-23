@@ -3,19 +3,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in Algorithms, Machine Learning, and Data Science.
+- 🤔 &nbsp; I am an experienced Cloud Developer, who was an English-Spanish translator travelling around the world along 8 years.
+- 🎓 &nbsp; When the pandemic came I decided to give a plus to my professional life in the tech area, and that was definitively the right chose.
+- 🌱 &nbsp; I learn the fundamental concepts, to learn everything else. Always giving the extra mile.
 - ✍️ &nbsp; Writing blogs about tech topics.
 - 🎥 &nbsp; Making tutorials to publish in YouTube. 
-- 🍕 &nbsp; I belive, a perfect pizza is with chicken and mushrooms.
+- 🍕 &nbsp; Facing challenges is a way to improve myself.
+- 👨🏼‍🏫 &nbsp; JavaScript Instructor.
+- 🦉 &nbsp; Ambassador in Computer Science Platzi Community.
+- 🤖 &nbsp; AWS Certified.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C | Bash | JavaScript | NodeJs | ExpressJS | FastAPI | Flask
-- 🌐 &nbsp; JavaScript | HTML | CSS | ReactJS | 
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Emacs | Git | GitHub | Heroku
+- 💻 &nbsp; Python | C++ | C | Bash | JavaScript | TypeScript | AWS
+- 🛢 &nbsp; SQL | NoSQL
+- 🔧 &nbsp; Visual Studio code | Git
 
 </br>
 
