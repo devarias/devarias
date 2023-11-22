@@ -1,5 +1,10 @@
 <h2> Hey there! I'm David. <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devarias/devarias/main/home.gif" width="250"/>
+
+<p align="center">
+&nbsp; <a href="https://www.credly.com/earner/earned/badge/745c2d17-d5ec-4d82-b4d9-c2bedfdce01e" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200" /></a>
+&nbsp; <a href="https://www.credly.com/earner/earned/badge/deef9851-a84b-45cd-962f-e6e6611e2633" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  width="200" /></a>
+&nbsp; <a href="https://www.credly.com/earner/earned/badge/14f345f0-8e26-4ff7-8ae2-cfbcbf901dbe" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" /></a>
+</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -28,12 +33,6 @@
 - 🎖️ &nbsp; AWS Certified Cloud Practitioner. Sept, 2022
 
 </br>
-
-<p align="center">
-&nbsp; <a href="https://www.credly.com/earner/earned/badge/745c2d17-d5ec-4d82-b4d9-c2bedfdce01e" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200" /></a>
-&nbsp; <a href="https://www.credly.com/earner/earned/badge/deef9851-a84b-45cd-962f-e6e6611e2633" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  width="200" /></a>
-&nbsp; <a href="https://www.credly.com/earner/earned/badge/14f345f0-8e26-4ff7-8ae2-cfbcbf901dbe" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" /></a>
-</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
