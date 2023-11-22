@@ -10,8 +10,8 @@
 - 🎥 &nbsp; Making tutorials to publish in YouTube. 
 - 🍕 &nbsp; Facing challenges is a way to improve myself.
 - 👨🏼‍🏫 &nbsp; JavaScript Instructor.
+- 🤖 &nbsp; AWS User Group Leader.
 - 🦉 &nbsp; Ambassador in Computer Science Platzi Community.
-- 🤖 &nbsp; AWS Certified.
 
 <h3>🛠 Expertise </h3>
 
