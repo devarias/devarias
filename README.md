@@ -30,6 +30,7 @@
 
 <h3>🛠 Certifications </h3>
 
+- 🎖️ &nbsp; HashiCorp Terraform Associate. Dec, 2023
 - 🎖️ &nbsp; AWS Certified Solutions Architect Associate. Nov, 2023
 - 🎖️ &nbsp; AWS Certified Developer Associate. Dec, 2022
 - 🎖️ &nbsp; AWS Certified Cloud Practitioner. Sept, 2022
