@@ -18,7 +18,6 @@
 - 🍕 &nbsp; Facing challenges is a way to improve myself.
 - 👨🏼‍🏫 &nbsp; JavaScript Instructor.
 - 🤖 &nbsp; AWS User Group Leader.
-- 🦉 &nbsp; Ambassador in Computer Science Platzi Community.
 
 <h3>🛠 Expertise </h3>
 
